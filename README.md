@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyasgurki78.
 - 👀 I’m interested in Angular projects.
-- 🌱 I’m currently learning Anjular and node js.
+- 🌱 I’m currently learning Angular and node js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
